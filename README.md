@@ -1,4 +1,4 @@
 # kitty-myconfig
 
 Themes from:
-https://sw.kovidgoyal.net/kitty/overview/
+https://github.com/dexpota/kitty-themes
