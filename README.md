@@ -4,4 +4,5 @@ Themes from:
 https://github.com/dexpota/kitty-themes
 
 Pre-reqs:
-fonts-inconsolata
+apt install fonts-inconsolata kity vim ranger
+pip install pillow
